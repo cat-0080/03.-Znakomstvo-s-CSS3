@@ -1,0 +1,32 @@
+h1 {
+    color: red;;
+}
+
+.blue {
+    display: inline-block;
+    background: blue;
+    margin-bottom: 100px;
+    color: white;
+}
+
+.red {
+    color: red;
+}
+
+h2 {
+    background: green;
+    color: white;
+}
+
+.pad {
+    padding: 50px;
+}
+
+.marg {
+    margin-left: 100px;
+}
+
+li {
+    font-size: 24px;
+    border: 1px solid black;
+}
